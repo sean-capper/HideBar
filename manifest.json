@@ -4,7 +4,7 @@
     "description": "Hide the sidebar on the front page of Reddit. Enabled by default.",
     "content_scripts": [
         {
-          "matches": ["https://www.reddit.com/"],
+          "matches": ["https://www.reddit.com/", "https://www.reddit.com/r/all/", "https://www.reddit.com/r/popular/"],
           "css": ["hidebar.css"],
           "js": ["hidebar.js"]
         }

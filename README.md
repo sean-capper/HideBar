@@ -13,4 +13,4 @@ An extension for Google Chrome that hides the sidebar on the front page of Reddi
 
 
 #### Changelog
-* __4/12/2018__ &nbsp;&nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp; v1.0 Released
+* __4/12/2018__ &nbsp;&nbsp;&nbsp;&nbsp; - &nbsp;&nbsp;&nbsp;&nbsp; v0.0.1 Released

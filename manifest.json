@@ -1,6 +1,6 @@
 {
     "name": "HideBar",
-    "version": "1.0",
+    "version": "0.0.1",
     "description": "Hide the sidebar on the front page of Reddit. Enabled by default.",
     "content_scripts": [
         {

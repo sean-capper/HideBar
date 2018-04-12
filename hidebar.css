@@ -1,0 +1,12 @@
+.hidebar-btn {
+    font-size: 2em;
+    width: 100%;
+}
+
+.hidden {
+    display: none;
+}
+
+.visible {
+    display: visible;
+}
